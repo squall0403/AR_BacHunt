@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b1909239be3206b468ed2587d731b021
+timeCreated: 1498663212
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dictionary: {fileID: 4900000, guid: 8ee830fd37cb1b142b7f44ea93bd75d7, type: 3}
+  - btn_Play_text: {instanceID: 0}
+  - btn_Exit_text: {instanceID: 0}
+  - btn_HTP_text: {instanceID: 0}
+  - btn_Dictionary_text: {instanceID: 0}
+  - HTP_1: {instanceID: 0}
+  - HTP_2: {instanceID: 0}
+  - HTP_3: {instanceID: 0}
+  - info_bacteriodies: {instanceID: 0}
+  - info_ecoli: {instanceID: 0}
+  - info_hepa: {instanceID: 0}
+  - info_pseu: {instanceID: 0}
+  - info_shigella: {instanceID: 0}
+  - info_staph: {instanceID: 0}
+  - info_kleb: {instanceID: 0}
+  - info_strep: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

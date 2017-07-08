@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a154352d2b7a8cc4183de14a85324f16
+timeCreated: 1498747085
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dictionary: {fileID: 4900000, guid: 8ee830fd37cb1b142b7f44ea93bd75d7, type: 3}
+  - level_play_text: {instanceID: 0}
+  - btn_Replay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

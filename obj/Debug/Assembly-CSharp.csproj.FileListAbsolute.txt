@@ -1,0 +1,93 @@
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\obj\Debug\Assembly-CSharp.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEditor.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEditor.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\v11644\Desktop\3. Bacteria Hunt AR Game\Bacteria Hunt\obj\Debug\Assembly-CSharp.pdb
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\obj\Debug\Assembly-CSharp.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\obj\Debug\Assembly-CSharp.pdb
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Assembly-CSharp.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\nunit.framework.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEditor.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.UI.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.VR.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.DataContract.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Unity.CecilTools.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEditor.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.UI.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\nunit.framework.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\VR\3. Bacteria Hunt AR Game\Bacteria Hunt\Temp\bin\Debug\UnityEngine.VR.xml
+E:\VR\Bacteria Hunt\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\VR\Bacteria Hunt\obj\Debug\Assembly-CSharp.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Assembly-CSharp.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\VR\Bacteria Hunt\Temp\bin\Debug\nunit.framework.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEditor.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.UI.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.VR.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Unity.DataContract.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Unity.CecilTools.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEditor.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.UI.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\nunit.framework.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\VR\Bacteria Hunt\Temp\bin\Debug\UnityEngine.VR.xml
+E:\VR\Bacteria Hunt\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bacteria Hunt", "Assembly-CSharp.csproj", "{A70653FB-EFF1-C2FB-889F-4ED118C5E16E}"
+EndProject
+Project("{0EDEA745-BE6D-BC46-966F-4794B35F2ADF}") = "Bacteria Hunt", "Assembly-UnityScript.unityproj", "{B2B505AE-8C0E-962B-1D99-22AE7787BFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70653FB-EFF1-C2FB-889F-4ED118C5E16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70653FB-EFF1-C2FB-889F-4ED118C5E16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70653FB-EFF1-C2FB-889F-4ED118C5E16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70653FB-EFF1-C2FB-889F-4ED118C5E16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B505AE-8C0E-962B-1D99-22AE7787BFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B505AE-8C0E-962B-1D99-22AE7787BFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B505AE-8C0E-962B-1D99-22AE7787BFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B505AE-8C0E-962B-1D99-22AE7787BFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

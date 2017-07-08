@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<language>
+		<Name>English</Name>
+
+		<btn_How_to_play>How to play</btn_How_to_play>
+		<btn_Play>Play</btn_Play>
+		<btn_Bacteria_Dictionary>Bacteria Dictionary</btn_Bacteria_Dictionary>
+		<btn_Exit>Exit</btn_Exit>
+		<txt_timeup>Time Up!</txt_timeup>
+		<how_to_play1>1.Hold the phone parallel to your eyes</how_to_play1>
+		<how_to_play2>2.Rotate 360 degrees (left/right/up/down) to find the bacteria</how_to_play2>
+		<how_to_play3>3.Click on the bacteria on camera screen to play</how_to_play3>
+		
+		<bacteroides>Live in oral and intestines. Cause appendicitis, peritoneal infection</bacteroides>
+		<ecoli>Live in instectines, spread in everyday objects. Cause blood diarrhea and stomach pain</ecoli>
+		<hepatitisa>Transmit through contaminated food and water. Cause Hepatitis A</hepatitisa>
+		<pseudomonas>Live in wet places, found in soil and water. Cause skin,blood and lung infections</pseudomonas>
+		<shigella>Spread through contaminated food and water. Cause diarrhea, vomiting</shigella>
+		<staph>Live on skin, mucous membranes. Cause ulcers, infections</staph>	
+		<kleb>Live in Intestines. Transmit from human or polluted place. Cause lung inflamation, septicemia, meningitis</kleb>
+		<strepto>Grow in chains. Cause infectious skin infections, necrotic dermatitis</strepto>
+		
+		<level_intro>Do you know?</level_intro>
+		
+		<btn_Try_again>Try again</btn_Try_again>
+
+		<level>Select level</level>
+
+		<intro_level1>80% of infectious diseases are transmitted by hands</intro_level1>
+		<guide_Lv1>Let’s look around you! Find 3 bacteria and kill them in 10 seconds</guide_Lv1>
+
+		<intro_level2>Shigella and Hepatitis A on your hands cause diarrhea</intro_level2>
+		<guide_Lv2>Find Shigella and Hepatitis A and kill them in 15 seconds</guide_Lv2>
+
+		<intro_level3>E.Coli in contaminated food causes serious vomit and diarrhea</intro_level3>
+		<guide_Lv3>Find 3 E.Coli bacteria and kill them in 15 seconds</guide_Lv3>
+
+		<intro_level4>Bacteria can multiply to 4 million in 8 hours</intro_level4>
+		<guide_Lv4>Kill all the bacteria in 20 seconds</guide_Lv4>
+
+		<intro_level5>Washing your hands with soap and warm water from 15 to 20 seconds can kill 98% of the bacteria on your hands</intro_level5>
+		<guide_Lv5>Find Habi the Soap Hero in 8 second</guide_Lv5>
+		<play_level5>Thank You for helping Habi kill bacteria. Wash your hands to prevent bacteria!</play_level5>
+	</language>
+
+	<language>
+		<Name>Tiếng Việt</Name>
+
+		<btn_How_to_play>Cách chơi</btn_How_to_play>
+		<btn_Play>Bắt đầu</btn_Play>
+		<btn_Bacteria_Dictionary>Từ điển Vi khuẩn</btn_Bacteria_Dictionary>
+		<btn_Exit>Thoát</btn_Exit>
+		<txt_timeup>Hết giờ!</txt_timeup>
+		<how_to_play1>1.Giữ điện thoại song song với tầm mắt</how_to_play1>
+		<how_to_play2>2.Xoay điện thoại 360 độ (trái/phải/trên/dưới) để tìm vi khuẩn</how_to_play2>
+		<how_to_play3>3.Chạm vào vi khuẩn trên màn hình để chơi</how_to_play3>
+
+		<bacteroides>Sống trong miệng và đường ruột. Gây viêm ruột thừa, nhiễm trùng phúc mạc</bacteroides>
+		<ecoli>Sống trong đường ruột, lan truyền trong các vật thể xung quanh. Gây ra tiêu chảy máu và đau bụng</ecoli>
+		<hepatitisa>Truyền qua đường thức ăn và nước bị ô nhiễm. Gây ra bệnh viêm gan A</hepatitisa>
+		<pseudomonas>Sống ở chỗ ẩm ướt, tìm thấy trong đất và nước. Gây nhiễm trùng da, máu và phổi</pseudomonas>
+		<shigella>Lan truyền qua thức ăn và nước bị nhiễm khuẩn. Gây ra bệnh tiêu chảy, nôn mửa</shigella>
+		<staph>Sống trên da và màng nhầy. Gây ra lở loét, nhiễm trùng</staph>
+		<kleb>Sống trong ruột. Lây từ người và môi trường ô nhiễm. Gây viêm phổi, nhiễm trùng máu, viêm màng não</kleb>
+		<strepto>Phát triển thành chuỗi. Gây nhiễm trùng da truyền nhiễm, viêm da hoại tử</strepto>
+		
+		<level_intro>Bạn có biết?</level_intro>
+		
+		<btn_Try_again>Thử lại</btn_Try_again>
+
+		<level>Chọn cấp độ</level>
+
+		<intro_level1>80% các bệnh truyền nhiễm lây qua bằng tay</intro_level1>
+		<guide_Lv1>Hãy nhìn xung quanh! Tìm 3 con vi khuẩn và tiêu diệt trong 10 giây</guide_Lv1>
+
+		<intro_level2>Vi khuẩn Shigella và Hepatitis A trên tay bạn là nguyên nhân gây ra tiêu chảy</intro_level2>
+		<guide_Lv2>Tìm vi khuẩn Shigella với Hepatitis A, tiêu diệt chúng trong 15 giây</guide_Lv2>
+
+		<intro_level3>Vi khuẩn E.Coli trong thức ăn nhiễm độc khiến bạn bị nôn mửa và tiêu chảy nghiêm trọng</intro_level3>
+		<guide_Lv3>Tìm 3 vi khuẩn E.Coli và tiêu diệt chúng trong 15 giây</guide_Lv3>
+
+		<intro_level4>Vi khuẩn có thể sinh sôi đến 4 triệu con trong 8 tiếng</intro_level4>
+		<guide_Lv4>Tiêu diệt tất cả vi khuẩn trong 20 giây</guide_Lv4>
+
+		<intro_level5>Rửa tay với xà bông và nước ấm từ 15 tới 20 giây có thể tiêu diệt tới 98% vi khuẩn sống trên tay bạn</intro_level5>
+		<guide_Lv5>Tìm dũng sĩ xà bông Habi trong 8 giây</guide_Lv5>
+		<play_level5>Cảm ơn Bạn đã cùng Habi tiêu diệt vi khuẩn. Hãy rửa tay để tránh khuẩn nhé!</play_level5>
+	</language>
+</languages>
