@@ -8,6 +8,7 @@
 		<btn_Bacteria_Dictionary>Bacteria Dictionary</btn_Bacteria_Dictionary>
 		<btn_Exit>Exit</btn_Exit>
 		<txt_timeup>Time Up!</txt_timeup>
+		<txt_score>Score</txt_score>
 		<how_to_play1>1.Hold the phone parallel to your eyes</how_to_play1>
 		<how_to_play2>2.Rotate 360 degrees (left/right/up/down) to find the bacteria</how_to_play2>
 		<how_to_play3>3.Click on the bacteria on camera screen to play</how_to_play3>
@@ -52,6 +53,7 @@
 		<btn_Bacteria_Dictionary>Từ điển Vi khuẩn</btn_Bacteria_Dictionary>
 		<btn_Exit>Thoát</btn_Exit>
 		<txt_timeup>Hết giờ!</txt_timeup>
+		<txt_score>Điểm</txt_score>
 		<how_to_play1>1.Giữ điện thoại song song với tầm mắt</how_to_play1>
 		<how_to_play2>2.Xoay điện thoại 360 độ (trái/phải/trên/dưới) để tìm vi khuẩn</how_to_play2>
 		<how_to_play3>3.Chạm vào vi khuẩn trên màn hình để chơi</how_to_play3>

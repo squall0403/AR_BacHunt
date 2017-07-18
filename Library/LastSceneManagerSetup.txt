@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Game Scenes/Level 4/Level 4_Intro.unity
+- path: Assets/Game Scenes/Menu/Language_select.unity
   isLoaded: 1
   isActive: 1

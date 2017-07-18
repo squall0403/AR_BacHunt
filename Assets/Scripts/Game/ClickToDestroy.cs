@@ -57,7 +57,12 @@ public class ClickToDestroy : MonoBehaviour {
 	void Update () {
 		Scene activeScene = SceneManager.GetActiveScene ();
 		if (activeScene.name != "Level 5_Play") {
-			scoreText.text = "Điểm: " + score;
+			if (MenuActions.langSelected == "VN") {
+				scoreText.text = "Điểm: " + score;
+			} else {
+				scoreText.text = "Score: " + score;
+			}
+
 		}
 	}
 

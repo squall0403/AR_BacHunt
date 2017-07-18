@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_BacHunt", "Assembly-CSharp.csproj", "{E85489BC-6266-7218-7718-963B6E5B794F}"
+EndProject
+Project("{C2779476-358A-2A64-B117-6C202B222071}") = "AR_BacHunt", "Assembly-UnityScript.unityproj", "{AEA99CC2-1C3E-93B8-B089-6448D3BE649C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85489BC-6266-7218-7718-963B6E5B794F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85489BC-6266-7218-7718-963B6E5B794F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85489BC-6266-7218-7718-963B6E5B794F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85489BC-6266-7218-7718-963B6E5B794F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA99CC2-1C3E-93B8-B089-6448D3BE649C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA99CC2-1C3E-93B8-B089-6448D3BE649C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA99CC2-1C3E-93B8-B089-6448D3BE649C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA99CC2-1C3E-93B8-B089-6448D3BE649C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\ClickToDestroy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game\xmlReader_Level_Play_5.cs" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\Game\TimerCountdownL1Win.cs" Line="48" Column="5" />
+      <File FileName="Assets\Scripts\Game\ClickToDestroy.cs" Line="61" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
